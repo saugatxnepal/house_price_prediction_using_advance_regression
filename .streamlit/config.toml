@@ -1,0 +1,24 @@
+[theme]
+base = "light"
+primaryColor = "#A94D2B"
+backgroundColor = "#FFFDF9"
+secondaryBackgroundColor = "#F3EFE7"
+textColor = "#17332D"
+borderColor = "#D8D0C2"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "large"
+buttonRadius = "large"
+font = "sans-serif"
+headingFontWeights = [750, 700, 650]
+
+[theme.sidebar]
+backgroundColor = "#17332D"
+secondaryBackgroundColor = "#24463E"
+textColor = "#FFF9EC"
+borderColor = "#31584E"
+primaryColor = "#F0A06D"
+
+[browser]
+gatherUsageStats = false
+
